@@ -47,6 +47,3 @@ link:
 
 nav:
   home: Home
-
-footer:
-  powered_by: "Powered by {{ .Hugo }} &amp; {{ .Lynx }}"
